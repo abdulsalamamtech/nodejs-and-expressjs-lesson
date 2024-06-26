@@ -1,0 +1,23 @@
+{
+  "name": "express-pro",
+  "version": "1.0.0",
+  "description": "express api application",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.19.2",
+    "jia": "^0.0.1",
+    "mangodb": "^1.0.0",
+    "mongoose": "^8.4.3"
+  },
+  "scripts": {
+    "db": "echo \"mongodb+srv://amtech:<password>@cluster0.7td15ke.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0\" ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "api"
+  ],
+  "author": "abdulsalamamtech",
+  "license": "MIT"
+}
