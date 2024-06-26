@@ -7,3 +7,4 @@
 - I configure server.js
 - I wrote some basic routes
 - I test the end points
+- understand how to add script command
