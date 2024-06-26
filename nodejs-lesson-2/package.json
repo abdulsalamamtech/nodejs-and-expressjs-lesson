@@ -1,0 +1,16 @@
+{
+  "name": "first-node",
+  "version": "1.0.0",
+  "description": "my first node application created on wed, 12th june 2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "index"
+  },
+  "keywords": [
+    "first",
+    "node",
+    "app"
+  ],
+  "author": "AbdulsalamAmtech",
+  "license": "MIT"
+}
